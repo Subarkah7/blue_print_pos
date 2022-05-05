@@ -3,9 +3,9 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'dart:ui';
 
-import 'package:blue_print_pos/models/models.dart';
-import 'package:blue_print_pos/receipt/receipt_section_text.dart';
-import 'package:blue_print_pos/scanner/blue_scanner.dart';
+import 'package:blue_print_pos_plus/models/models.dart';
+import 'package:blue_print_pos_plus/receipt/receipt_section_text.dart';
+import 'package:blue_print_pos_plus/scanner/blue_scanner.dart';
 import 'package:blue_thermal_printer/blue_thermal_printer.dart' as blue_thermal;
 import 'package:esc_pos_utils_plus/esc_pos_utils.dart';
 import 'package:flutter/services.dart';

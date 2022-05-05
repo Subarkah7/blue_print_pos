@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:blue_print_pos/blue_print_pos.dart';
-import 'package:blue_print_pos/models/models.dart';
-import 'package:blue_print_pos/receipt/receipt.dart';
+import 'package:blue_print_pos_plus/blue_print_pos.dart';
+import 'package:blue_print_pos_plus/models/models.dart';
+import 'package:blue_print_pos_plus/receipt/receipt.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

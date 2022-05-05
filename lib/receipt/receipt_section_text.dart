@@ -1,5 +1,5 @@
-import 'package:blue_print_pos/receipt/collection_style.dart';
-import 'package:blue_print_pos/receipt/receipt_image.dart';
+import 'package:blue_print_pos_plus/receipt/collection_style.dart';
+import 'package:blue_print_pos_plus/receipt/receipt_image.dart';
 
 import 'receipt_alignment.dart';
 import 'receipt_line.dart';
