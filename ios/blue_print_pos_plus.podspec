@@ -3,7 +3,7 @@
 # Run `pod lib lint blue_print_pos.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'blue_print_pos'
+  s.name             = 'blue_print_pos_plus'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter project.'
   s.description      = <<-DESC
